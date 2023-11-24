@@ -1,0 +1,41 @@
+body {
+  background-color: rgb(238, 238, 238);
+}
+
+#divGeral {
+  background-color: rgb(201, 201, 200);
+  margin: 0px 10%;
+  border-radius: 20px;
+}
+
+.texto {
+  text-align: center;
+}
+
+#barraMenu {
+  background-color: darkgrey;
+  align-items: center;
+  width: 100%;
+  justify-content: end;
+  text-align: center;
+  border-radius: 20px;
+}
+
+#item1Barra {
+  background-color: darkgrey;
+  width: 30%;
+  
+}
+
+
+.menu {
+  display: flex;
+  width: 100%;
+  text-align: center;
+}
+
+button {
+  width: 165px;
+  height: 60px;
+  margin: 25px;
+}
